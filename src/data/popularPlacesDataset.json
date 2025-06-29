@@ -1,0 +1,136 @@
+[
+  {
+    "city": "Visakhapatnam",
+    "state": "Andhra Pradesh",
+    "popular_places": [
+      "Kailasagiri",
+      "RK Beach",
+      "INS Kurusura Submarine Museum",
+      "Yarada Beach",
+      "Araku Valley",
+      "Borra Caves",
+      "Simhachalam Temple",
+      "Rushikonda Beach",
+      "Bae's Cappuccino",
+      "Brew 'n' Bistro",
+      "Pastry Coffee N Conversation",
+      "Bean Board",
+      "The Gallery"
+    ]
+  },
+  {
+    "city": "Hyderabad",
+    "state": "Telangana",
+    "popular_places": [
+      "Charminar",
+      "Golconda Fort",
+      "Hussain Sagar Lake",
+      "Ramoji Film City",
+      "Salar Jung Museum",
+      "Birla Mandir",
+      "Lumbini Park",
+      "Nehru Zoological Park",
+      "Shilparamam"
+    ]
+  },
+  {
+    "city": "Bangalore",
+    "state": "Karnataka",
+    "popular_places": [
+      "Lalbagh Botanical Garden",
+      "Cubbon Park",
+      "Bangalore Palace",
+      "Vidhana Soudha",
+      "Bannerghatta National Park",
+      "ISKCON Temple",
+      "UB City Mall",
+      "MG Road"
+    ]
+  },
+  {
+    "city": "Chennai",
+    "state": "Tamil Nadu",
+    "popular_places": [
+      "Marina Beach",
+      "Kapaleeshwarar Temple",
+      "Fort St. George",
+      "Guindy National Park",
+      "Vivekananda House",
+      "Santhome Cathedral",
+      "Government Museum"
+    ]
+  },
+  {
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "popular_places": [
+      "Gateway of India",
+      "Marine Drive",
+      "Elephanta Caves",
+      "Chhatrapati Shivaji Maharaj Terminus",
+      "Juhu Beach",
+      "Haji Ali Dargah",
+      "Siddhivinayak Temple"
+    ]
+  },
+  {
+    "city": "Delhi",
+    "state": "Delhi",
+    "popular_places": [
+      "Red Fort",
+      "Qutub Minar",
+      "India Gate",
+      "Lotus Temple",
+      "Humayun's Tomb",
+      "Akshardham Temple",
+      "Chandni Chowk",
+      "Rashtrapati Bhavan"
+    ]
+  },
+  {
+    "city": "Jaipur",
+    "state": "Rajasthan",
+    "popular_places": [
+      "Hawa Mahal",
+      "City Palace",
+      "Jantar Mantar",
+      "Amber Fort",
+      "Nahargarh Fort",
+      "Albert Hall Museum"
+    ]
+  },
+  {
+    "city": "Kolkata",
+    "state": "West Bengal",
+    "popular_places": [
+      "Victoria Memorial",
+      "Howrah Bridge",
+      "Dakshineswar Temple",
+      "Indian Museum",
+      "Science City",
+      "Eden Gardens"
+    ]
+  },
+  {
+    "city": "Ahmedabad",
+    "state": "Gujarat",
+    "popular_places": [
+      "Sabarmati Ashram",
+      "Kankaria Lake",
+      "Adalaj Stepwell",
+      "Sidi Saiyyed Mosque",
+      "Calico Museum of Textiles"
+    ]
+  },
+  {
+    "city": "Pune",
+    "state": "Maharashtra",
+    "popular_places": [
+      "Shaniwar Wada",
+      "Aga Khan Palace",
+      "Sinhagad Fort",
+      "Raja Dinkar Kelkar Museum",
+      "Pataleshwar Caves"
+    ]
+  }
+]
